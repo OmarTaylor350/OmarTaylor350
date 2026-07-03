@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
+<h1 align="center">¡Hola! Soy Omar Estrada Gomez</h1>
 
 <h3 align="center">Ingeniera(o) de Software | Desarrolladora Frontend / Backend | Entusiasta de la Tecnología</h3>
 
