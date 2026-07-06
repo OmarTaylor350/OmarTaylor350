@@ -12,7 +12,9 @@
 
 *  Actualmente trabajando en Mototracker una aplicación movil desarrollada en kotlin de un biker para bikers.
 * Actualmente aprendiendo kotlin, jetpack compose y ciberseguridad.
-*  Buscando colaborar en Empresas, y/o trabajo freelance,
+*  Me gusta darle mantenimiento y reparacion de consolas de videojuegos y computadoras.
+*  te puedo apoyar con la instalación de Microsoft office a un accesible costo.
+*  Buscando colaborar en Empresas, y/o trabajo freelance.
 *  Pregúntame sobre JavaScript, base de datos en SQL Server, mantenimiento preventivo y correctivo a sistemas de computo.
 *  Cómo contactarme: 23020720@es.uveg.edu.mx
 
