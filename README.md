@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Omar Estrada Gomez</h1>
 
-<h3 align="center">Ingeniera(o) de Software | Desarrolladora Frontend / Backend | Entusiasta de la Tecnología</h3>
+<h3 align="center">Ingeniero de Software | Desarrollador Frontend / Backend | Entusiasta de la Tecnología</h3>
 
 <p align="center">
   Transformando café en código y construyendo soluciones digitales escalables. Siempre en constante aprendizaje y buscando el próximo desafío técnico.
