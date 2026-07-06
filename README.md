@@ -10,11 +10,11 @@
 
 ## 👩‍💻 Sobre Mí
 
-* 🔭 Actualmente trabajando en **[Nombre de tu proyecto o empresa]**
-* 🌱 Actualmente aprendiendo **[Tecnología, ej. React, AWS, Rust]**
+* 🔭 Actualmente trabajando en Mototracker una aplicación movil desarrollada en kotlin de un biker para bikers.
+* 🌱 Actualmente aprendiendo kotlin, jetpack compose y ciberseguridad.
 * 👯 Buscando colaborar en **[Proyectos Open Source, Startups, etc.]**
 * 💬 Pregúntame sobre **[Tus áreas de mayor dominio, ej. JavaScript, Bases de Datos]**
-* 📫 Cómo contactarme: **[tu-email@correo.com]**
+* 📫 Cómo contactarme: 23020720@es.uveg.edu.mx
 
 ---
 
