@@ -10,11 +10,11 @@
 
 ## 👩‍💻 Sobre Mí
 
-* 🔭 Actualmente trabajando en Mototracker una aplicación movil desarrollada en kotlin de un biker para bikers.
-* 🌱 Actualmente aprendiendo kotlin, jetpack compose y ciberseguridad.
-* 👯 Buscando colaborar en Empresas, y/o trabajo freelance,
-* 💬 Pregúntame sobre JavaScript, base de datos en SQL Server, mantenimiento preventivo y correctivo a sistemas de computo.
-* 📫 Cómo contactarme: 23020720@es.uveg.edu.mx
+*  Actualmente trabajando en Mototracker una aplicación movil desarrollada en kotlin de un biker para bikers.
+* Actualmente aprendiendo kotlin, jetpack compose y ciberseguridad.
+*  Buscando colaborar en Empresas, y/o trabajo freelance,
+*  Pregúntame sobre JavaScript, base de datos en SQL Server, mantenimiento preventivo y correctivo a sistemas de computo.
+*  Cómo contactarme: 23020720@es.uveg.edu.mx
 
 ---
 
