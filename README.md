@@ -34,11 +34,11 @@
 </p>
 
 ---
-## 📊 Mis Estadísticas de GitHub
+## 📊 Mi Actividad
 
-![Estadísticas de Omar](https://github-readme-stats.vercel.app/api?username=OmarTaylor350&show_icons=true&theme=radical&v=1)
+![Racha de Omar](https://streak-stats.demolab.com/?user=OmarTaylor350&theme=radical)
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarTaylor350&layout=compact&theme=radical&v=1)
+![Gráfico de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=OmarTaylor350&theme=react-dark&hide_border=true)
 ---
 
 ## 🌐 Conecta Conmigo
