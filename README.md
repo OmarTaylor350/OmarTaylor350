@@ -8,7 +8,7 @@
 
 ---
 
-## 👩‍💻 Sobre Mí
+##  Sobre Mí
 
 *  Actualmente trabajando en Mototracker una aplicación movil desarrollada en kotlin de un biker para bikers, tambien estoy trabajando en un proyecto llamado AETHEL que es un sistema ERP para ventas de un negocio etc.
 * Actualmente aprendiendo kotlin, jetpack compose y ciberseguridad.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -34,7 +34,7 @@
 </p>
 
 ---
-## 📊 Mi Actividad
+##  Mi Actividad
 
 ![Racha de Omar](https://streak-stats.demolab.com/?user=OmarTaylor350&theme=radical)
 
