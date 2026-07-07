@@ -43,8 +43,19 @@
 
 ## 🌐 Conecta Conmigo
 
-<p align="center">
-<a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/TU_USUARIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="TU_PORTAFOLIO_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" /></a>
+<p align="left">
+  <!-- Enlace a tu LinkedIn -->
+  <a href="https://linkedin.com/in/omar-estrada-gomez-ba1519312" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Omar" />
+  </a>
+  
+  <!-- Enlace a tu Portafolio / Proyecto -->
+  <a href="https://lacomidadelpanda.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-10B981?style=for-the-badge&logo=netlify&logoColor=white" alt="La Comida del Panda" />
+  </a>
+
+  <!-- Enlace a un correo (Opcional, cambia tu correo) -->
+  <a href="mailto:tu-correo@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
 </p>
